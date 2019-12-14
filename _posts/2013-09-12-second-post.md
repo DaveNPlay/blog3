@@ -1,6 +1,6 @@
 ---
-title: Second Post
-author: Chris
+title: Segunda Unidad
+author: Ariana Cabezas
 layout: post
 ---
 
