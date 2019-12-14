@@ -1,6 +1,6 @@
 ---
-title: Third Post
-author: Chris
+title: Puntos Importantes de Cada Unidad
+author: Ariana Cabezas
 layout: post
 icon: fa-lightbulb
 icon-style: regular
